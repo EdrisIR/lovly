@@ -590,3 +590,10 @@ audioElement.addEventListener("timeupdate", function (e) {
   }
   lastTime = nowTime;
 });
+
+this.resize = function () {
+  this.width = this.elem.width = this.elem.offsetWidth;
+  this.height = this.elem.height = this.elem.offsetHeight;
+  this.ctx = this.elem.getContext("2d");
+};
+
