@@ -1,7 +1,10 @@
-# Love-Mdi - Source Code for valentine day
+#Hi There 👋🏻
+=============
+#Love-Mdi - Source Code for valentine day
+=============
 Lovely => 
 <br>
-HTML+ CSS + JS + Lib === jQueary
+HTML+ CSS + JS + Lib === jquery
 <br>
 Codepen :)
 <br>
