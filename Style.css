@@ -387,9 +387,3 @@ h2 {
     opacity: 0;
   }
 }
-
-@media screen and (max-width:768px) {
-  *, body, html {
-    display: block !important;
-  }
-} 
